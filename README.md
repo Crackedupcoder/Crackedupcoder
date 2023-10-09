@@ -21,6 +21,7 @@ I'm a passionate software developer with a focus on Backend Web Develpoment. I l
 
 - [LinkedIn] (https://www.linkedin.com/in/ibrahim-abdulsamad-834b22288/) 
 - [Twitter] (https://twitter.com/youngdaraey)
+- [instagram] (https://www.instagram.com/youngdaraey)
 
 ## 📫 How to reach me:
 
